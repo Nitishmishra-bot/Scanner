@@ -23,8 +23,8 @@ print(result)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("Option", help="1. T for TCP port scanning\n2. A for SYN Flood Attack")
-#args  = parser.parse_args()
-args, unknown = parser.parse_known_args()
+args  = parser.parse_args()
+#args, unknown = parser.parse_known_args()
 
 
 if args.Option == "T":
