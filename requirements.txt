@@ -7,3 +7,7 @@ python modules
   datetime
 
 The file can be run using cmd and terminal only.
+
+you must run file in cmd or terminal using T for Tcp scan A for syn-flood attack
+e.g  scanner.py T
+     scanner.py A
