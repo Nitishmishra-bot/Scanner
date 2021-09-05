@@ -1,0 +1,9 @@
+python modules
+  pyfiglet
+   socket
+  argparse
+  sys
+  scapy.all,scapy
+  datetime
+
+The file can be run using cmd and terminal only.
